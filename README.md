@@ -1,0 +1,1 @@
+# zapi-typebot-auto-resposta
